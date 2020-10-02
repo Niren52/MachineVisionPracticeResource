@@ -1,2 +1,2 @@
 # Repeating  methods of M.V. using old resources
-Object Tracking, masking
+Revisiting some old work I did during my Masters: Object Tracking, masking etc...
